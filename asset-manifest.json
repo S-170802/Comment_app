@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Comment_app/static/css/main.e4e19ab6.css",
+    "main.js": "/Comment_app/static/js/main.d47aae25.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Comment_app/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/avatar.png": "/Comment_app/static/media/avatar.e582e4ba7aae2cecd658.png",
+    "index.html": "/Comment_app/index.html",
+    "main.e4e19ab6.css.map": "/Comment_app/static/css/main.e4e19ab6.css.map",
+    "main.d47aae25.js.map": "/Comment_app/static/js/main.d47aae25.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Comment_app/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e19ab6.css",
+    "static/js/main.d47aae25.js"
+  ]
+}
